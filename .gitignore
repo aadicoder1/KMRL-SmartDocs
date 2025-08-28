@@ -19,3 +19,7 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# Python backend
+backend/venv/
+backend/__pycache__/
